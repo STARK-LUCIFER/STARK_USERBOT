@@ -1,1 +1,0 @@
-from resources.strings import *
